@@ -1,7 +1,7 @@
 # learning-assembly
-Exercises in MIPS Assembly language
+exercises in mips assembly language
 
-Part of my learning journey in Computer Science at Cesar.School(https://cesar.school),
-also my self-study through Computer Architecture course on Codecademy.
+part of my learning journey in computer science at cesar.school(https://cesar.school),
+also my self-study through computer architecture course on codecademy.
 
-I have utilized MARS (MIPS Assembler and Runtime Simulator) at https://courses.missouristate.edu/kenvollmar/mars/
+I have utilized mars (mips assembler and runtime simulator) at https://courses.missouristate.edu/kenvollmar/mars/
